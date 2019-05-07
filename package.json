@@ -31,7 +31,8 @@
         "multi-hashing": "git://github.com/MicroBitcoinOrg/NodeMultiHashing.git",
         "bignum": "0.12.5",
         "base58-native": "*",
-        "async": "*"
+        "async": "*",
+        "blake2": "*"
     },
     "engines": {
         "node": ">=0.10"
